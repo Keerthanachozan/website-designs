@@ -1,0 +1,216 @@
+body{
+    background: url(../images/bg\ purple.PNG) no-repeat center/cover;
+}
+
+.img{
+    float: right;
+    padding-left: 480px;
+}
+
+.image{
+    float: right;
+    height: 350px;
+    width: 450px;
+    margin-right:100px ;
+    padding-top: 50px;
+}
+
+.ul{
+    display: flex;
+    list-style-type: none;
+    width: 1350px;
+    height: 55px;
+    padding:0%;
+    background-color:blueviolet;
+}
+
+.ul .btn6{
+    color: gold;
+    border-color: gold;
+    border-radius: 4px;
+    padding: 10px 20px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.btn6:hover{
+    background-color:gold ;
+    color: black;
+}
+
+li{
+    padding: 15px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: rgb(230, 219, 219);
+    font-family: sans-serif;
+}
+
+.btn:hover{
+    color: white;
+}
+
+.btn1{
+    color: white;
+}
+
+.para{
+    display:inline-block;
+    font-size: 60px;
+    font-family: sans-serif;
+    font-weight:550;
+    margin-left: 100px;
+   
+}
+
+.para1{
+    display:inline-block;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    margin-left: 100px;
+    margin-top: 0px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    color: rgb(94, 89, 89);
+    line-height: 30px;
+}
+
+
+.button{
+    background-color: blueviolet;
+    padding: 20px 30px;
+    border-radius: 5px;
+    margin: 5px;
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    margin-left: 100px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+}
+
+.button:hover{
+    background-color: purple;
+}
+
+
+.download{
+    background-color:white;
+    padding: 20px 30px;
+    border: 1px;
+    border-radius: 5px;
+    border-color: grey;
+    border-width: 1px;
+    border-style: solid;
+    text-decoration: none;
+    color:grey;
+    font-family: sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    margin: 10px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    
+}
+
+.download:hover{
+    color: white;
+    background-color: grey;
+}
+
+.line{
+    margin-left: 100px;
+    color: rgb(94, 89, 89);
+}
+
+.line .v{
+    color: rgb(94, 89, 89);
+    padding: 10px;
+}
+
+.middle{
+    margin-left: 100px;
+    height: 60px;
+    width: 60px;
+    border-radius: 10px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.topic{
+    margin-left: 100px;
+    /* font-size: larger;
+    font-weight: 400px; */
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    line-height: 1;
+}
+
+.blue{
+    color: rgb(76, 156, 187);
+}
+
+
+.right{
+    display: inline-block;
+    float: right;
+    padding-bottom: 10px;
+    width: 600px;
+    background-color: rgb(247, 245, 245);
+    border-radius: 5px;
+    letter-spacing: 1px;
+    font-weight: lighter;
+   
+}
+
+.install{
+    background-color:white;
+    padding: 20px 30px;
+    border: 1px;
+    border-radius: 5px;
+    border-color: rgb(76, 156, 187);
+    border-width: 1px;
+    border-style: solid;
+    text-decoration: none;
+    color: rgb(76, 156, 187);
+    font-family: sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    margin-left: 100px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    
+}
+
+.install:hover{
+    background-color:rgb(76, 156, 187);
+    color: white;
+}
+
+.install1{
+    display: block;
+    background-color:white;
+    padding: 10px;
+    border: 1px;
+    width: 40px;
+    border-radius: 5px;
+    border-color: rgb(76, 156, 187);
+    border-style: solid;
+    text-decoration: none;
+    color: rgb(76, 156, 187);
+    font-family: sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    margin-left: 400px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+}
+
+.install1:hover{
+    background-color:rgb(76, 156, 187);
+    color: white;
+}

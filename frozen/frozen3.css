@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-family:sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    line-height: 15px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+li{
+    list-style-type: none;
+}
+
+
+.nav-container{
+    background-color:rgb(226, 222, 222) ;
+    height: 15vh;
+}
+
+nav{
+    /* width: 95%; */
+    height: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+ 
+.ul{
+    margin-right: 13%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 40%;
+}
+
+.logo{
+    margin-top: 25px;
+    margin-left: 200px;
+
+}
+
+.blog{
+    text-align: center;
+    background-color: rgb(218, 218, 64);
+    height: 50%;
+    color: white;
+    padding-top: 30px;
+    font-size: xx-large;
+    font-family: sans-serif;
+}
+
+
+
+.para{
+    text-align: left;
+    margin-left: 200px;
+    margin-right: 550px;
+    /* background-color: #EFEDEE; */
+}
+
+.para1{
+    
+    display: block;
+    line-height: 48px;
+    color: #CB3362;
+    font-family: lato-regular-webfont;
+    font-size: 24px;
+    font-weight: bold;
+    text-transform:capitalize;
+}
+
+
+.img{
+    margin-top: 100px;
+    margin-left: 400px;
+}
+
+
+.para2{
+    color: #7A6666;
+    font-family: roboto-regular-webfont;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 20px;
+    text-align: left;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.side{
+    background-color: #EFEDEE;
+    float: left;
+   width: 300px;
+   margin-left: 230px;
+   margin-top: 40px;
+   text-align: justify;
+    display: block;
+}
+
+.para3{
+    width: 200px;
+    display: block;
+    line-height: 48px;
+    text-align: center;
+    color: #CB3362;
+    padding-top: 20px;
+    padding-left: 60px;
+    font-family: lato-regular-webfont;
+    font-size: 24px;
+    font-weight: normal;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.para{
+    color: #7A6666;
+    font-family: roboto-regular-webfont;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 48px;
+    text-align: center;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.h1{
+    color: #CB3362;
+}
+
+.h:hover{
+    color: goldenrod;
+}
+
+.footer{
+    background-color: #CB3362;
+    height: 300px;
+}
+
+.para9{
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.icons{
+    text-align: center;
+    padding-top: 80px;
+}
+
+.link{
+    color: #7A6666;
+}
+
+.link:hover{
+    color: goldenrod;
+}

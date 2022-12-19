@@ -1,0 +1,79 @@
+.para{
+    display: flex;
+    width: 200px;
+}
+.btn{
+    height: 20px;
+    margin-top: 4%;
+    border-radius: 10px;
+    margin-left: 4%;
+    border: none;
+    background-color: rgb(217, 212, 224);
+}
+.para1{
+    margin-left: 14%;
+    margin-top:3% ;
+}
+.para2{
+    margin-left: 1%;
+    font-size: 25px;
+    width: 850px;
+    font-family: sans-serif;
+    
+    
+}
+.pp{
+    margin-top: 1.5%;
+    text-decoration: none;
+    color: rgb(41, 82, 219);
+}
+.pp:hover{
+    color: orangered;
+    text-decoration: underline;
+}
+.btn2{
+    border-style: dotted;
+    color: gray;
+    background-color: white;
+    border-color: gray;
+    height: 40px;
+}
+.btn3{
+    
+    color: gray;
+    background-color:grey;
+    border-color: gray;
+    height: 40px;
+    color: rgb(247, 241, 241);
+    border: none;
+}
+.aa{
+    margin-top: 2%;
+    text-decoration: none;
+    color: rgb(41, 82, 219);
+    width: 500px;
+    
+}
+.aa:hover{
+    color: orangered;
+    text-decoration: underline;
+   
+}
+.para4{
+    margin-left: 40%;
+    width: 300px;
+
+    
+}
+.btn4{
+    border-color: rgb(41, 82, 219);
+    width: 70PX;
+    margin-left: 5%;
+    border-radius: 5px;
+    color: rgb(41, 82, 219);
+    height: 35px;
+}
+.btn4:hover {
+    background-color: navy;
+    color: white;
+}
